@@ -39,7 +39,7 @@ Experience how GroundSet processes real-world business scenarios.
 
 Visualize every stage of the decision process.
 
-```
+``
 Evidence
       ↓
 Structured Data
